@@ -1,0 +1,6 @@
+#!/bin/bash
+
+if [ -d ../pythonadventure ]
+then
+echo "this is a directory"
+fi
